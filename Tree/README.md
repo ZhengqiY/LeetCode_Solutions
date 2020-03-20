@@ -1,5 +1,5 @@
 ## Summary
-- 80% tree problems can be solved using recusion
+- 80% tree problems can be solved using recursion
 - How to design a recursion
   - Clarify a terminating condition
   - Write expression for how to return the expected result
