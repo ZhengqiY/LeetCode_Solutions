@@ -7,3 +7,4 @@
 - Two recursion algorithms
   - solve the problem before the recursion
   - solve the prblem after the recursion
+- Be careful about the root being null situation (include it in termination condition): see IsSameTree problem
