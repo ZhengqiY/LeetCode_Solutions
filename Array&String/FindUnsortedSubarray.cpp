@@ -34,5 +34,5 @@ public:
 
 		int res = rightbound - leftbound + 1;
 		return rightbound - leftbound > 0 ? res : 0;
-	}
+	} 
 };
