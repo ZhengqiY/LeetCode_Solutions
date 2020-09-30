@@ -58,3 +58,4 @@ public class MakeGood {
         return res;
     }
 }
+// The difference between ASCII code of 'a' and 'A' is 32
